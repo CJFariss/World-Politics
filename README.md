@@ -69,35 +69,35 @@ Our World In Data. https://ourworldindata.org/
 
 ### Week 2
 
-**FLSHR Ch. 1:** *What Shaped Our World? A Historical Introduction*
+- **FLSHR Ch. 1:** *What Shaped Our World? A Historical Introduction*
 
 ### Week 3
 
-**FLSHR Ch. 2:** *Understanding Interests, Interactions, and Institutions*
+- **FLSHR Ch. 2:** *Understanding Interests, Interactions, and Institutions*
 
 ### Week 4
 
-**FLSHR Ch. 3:** *Why Are There Wars?*
+- **FLSHR Ch. 3:** *Why Are There Wars?*
 
-**OWD:** Bastian Herre, Lucas Rodés-Guirao, and Max Roser (2024) — "War and Peace." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/war-and-peace
+- **OWD:** Bastian Herre, Lucas Rodés-Guirao, and Max Roser (2024) — "War and Peace." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/war-and-peace
 
 ### Week 5
 
-**FLSHR Ch. 4:** *Domestic Politics and War*
+- **FLSHR Ch. 4:** *Domestic Politics and War*
 
 ### Week 6
 
-**FLSHR Ch. 5:** *International Institutions and War*
+- **FLSHR Ch. 5:** *International Institutions and War*
 
 ### Week 7
 
-**FLSHR Ch. 6:** *Violence by Nonstate Actors: Civil War and Terrorism*
+- **FLSHR Ch. 6:** *Violence by Nonstate Actors: Civil War and Terrorism*
 
 ### Week 8
 
-**FLSHR Ch. 7:** *Cross-Border Flows of Goods and Services*
+- **FLSHR Ch. 7:** *Cross-Border Flows of Goods and Services*
 
-**OWD:** Esteban Ortiz-Ospina et al. (2018) — "Trade and Globalization." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/trade-and-globalization
+- **OWD:** Esteban Ortiz-Ospina et al. (2018) — "Trade and Globalization." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/trade-and-globalization
 
 ### Week 9
 
