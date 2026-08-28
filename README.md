@@ -95,49 +95,53 @@ Our World In Data. https://ourworldindata.org/
 
 ### Week 8
 
+- Fall break: No class on Monday or Tuesday this week.
+  
 - **FLSHR Ch. 7:** *Cross-Border Flows of Goods and Services*
 
 - **OWD:** Esteban Ortiz-Ospina et al. (2018) — "Trade and Globalization." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/trade-and-globalization
 
 ### Week 9
 
-**FLSHR Ch. 8:** *Cross-Border Flows of Money and People*
+- **FLSHR Ch. 8:** *Cross-Border Flows of Money and People*
 
-**OWD:** Fiona Spooner et al. (2022) — "Migration." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/migration
+- **OWD:** Fiona Spooner et al. (2022) — "Migration." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/migration
 
-**Midterm: Wednesday October 28, 4:00 pm – 5:20 pm.** The midterm exam covers content presented from Week 1 to Week 7.
+- **Midterm: Wednesday October 28, 4:00 pm – 5:20 pm.** The midterm exam covers content presented from Week 1 to Week 7.
 
 ### Week 10
 
-**FLSHR Ch. 9:** *International Monetary Relations*
+- **FLSHR Ch. 9:** *International Monetary Relations*
 
 ### Week 11
-
-**FLSHR Ch. 10:** *Development: Causes of the Wealth and Poverty of Nations*
+  
+- **FLSHR Ch. 10:** *Development: Causes of the Wealth and Poverty of Nations*
 
 ### Week 12
 
-**FLSHR Ch. 11:** *International Law, Norms, and Order*
+- **FLSHR Ch. 11:** *International Law, Norms, and Order*
 
 ### Week 13
 
-**FLSHR Ch. 12:** *Human Rights*
+- Thanksgiving Break: No class on Wednesday, Thursday, or Friday this week.
 
-**OWD:** Bastian Herre and Pablo Arriagada (2016) — "Human Rights." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/human-rights
+- **FLSHR Ch. 12:** *Human Rights*
+
+- **OWD:** Bastian Herre and Pablo Arriagada (2016) — "Human Rights." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/human-rights
 
 ### Week 14
 
-**FLSHR Ch. 13:** *The Global Environment*
+- **FLSHR Ch. 13:** *The Global Environment*
 
 ### Week 15
 
-**FLSHR Ch. 14:** *Challenges to the Global Order*
+- **FLSHR Ch. 14:** *Challenges to the Global Order*
 
 ### Week 16: Finals Week
 
-**Final Exam: Monday December 14, 4:00 pm – 6:00 pm.**
+- **Final Exam: Monday December 14, 4:00 pm – 6:00 pm.**
 
-Final Exam Schedule: https://ro.umich.edu/calendars/final-exams/fall-2026
+- U-M Final Exam Schedule: https://ro.umich.edu/calendars/final-exams/fall-2026
 
 ---
 
