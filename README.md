@@ -167,6 +167,8 @@ Our World In Data. https://ourworldindata.org/. (Selected articles).
 
 - **FLSHR Ch. 13:** *The Global Environment*
 
+- **OWD:** Hannah Ritchie, Pablo Rosado, and Veronika Samborska (2024) - “Climate Change” Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/climate-change
+
 ### Week 15
 
 - **FLSHR Ch. 14:** *Challenges to the Global Order*
