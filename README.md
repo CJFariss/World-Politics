@@ -113,8 +113,10 @@ The best way to contact me to ask additional questions about course material is 
 ### Week 5
 
 - **FLSHR Ch. 4:** *Domestic Politics and War*
-- 
+ 
 - **OWD:** Bastian Herre, Lucas Rodés-Guirao, and Esteban Ortiz-Ospina (2013) - “Democracy” Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/democracy
+
+- U-M Library discussion.
 
 ### Week 6
 
