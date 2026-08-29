@@ -28,15 +28,11 @@ Exams: Exams in the course are meant to allow you to demonstrate your understand
 - **Final Exam: Monday December 14, 4:00 pm – 6:00 pm.** The final exam covers content presented from Week 1 to Week 15. This is a written exam that will take place in the classroom without use of any electronic device. 
 
 
-Quizzes:
+Quizzes and Assignments:
 
 - **InQuizitive Quizzes.** Complete each weekly InQuizitive quiz by Friday 11:59pm EST. There are 15 required InQuizitive quizs (one quiz each week). Learn more here: https://wwnorton.com/inquizitive. Links to the textbook chapters and InQuizitive quizzes are available in the Canvas website. 
 - **Discussion Section Bluebook Quizzes.** Brief, in person quizzes that will be taken in person during discussion section. Blue books provided by the instructors. 
 - **Check Your Understanding Boxes.** Each chapter in the textbook contains several check points for material covered in the relevant chapter. These are not required quizzes but valuable learning tools that I highly encourage students to complete. Students missing lecture are required to compelete these questions. Links to the textbook chapters are available in the Canvas website. 
-
-
-Assignments: 
-
 - **Data Visualization** With the assistance of the instructors, identify a data visualization that captures some aspect of world politics on the ourworldindata.org website. Recreate the visualization of this data using the program R (There will be an optional R tutorial for those students interested in learning to visualize data using this free program). Students may also use U-M GPT to assist in the re-creation of the ourworldindata.org data visualization using R. On the first page of this assignment describe the dataset, where you obtained it, and what it measures. On the second page provide the visualization and an informative caption about the data visuzlation. A complete citation to the ourworldindata.org article is also required.
 
 
