@@ -146,7 +146,8 @@ Our World In Data. https://ourworldindata.org/. (Selected articles).
   
 - **FLSHR Ch. 10:** *Development: Causes of the Wealth and Poverty of Nations*
 
-- **OWD:** Max Roser, Bertha Rohenkohl, Pablo Arriagada, Joe Hasell, Hannah Ritchie, and Esteban Ortiz-Ospina (2023) - “Economic Growth” Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/economic-growth 
+- **OWD:** Max Roser, Bertha Rohenkohl, Pablo Arriagada, Joe Hasell, Hannah Ritchie, and Esteban Ortiz-Ospina (2023) - “Economic Growth” Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/economic-growth
+-  **OWD:** Joe Hasell, Bertha Rohenkohl, Pablo Arriagada, Esteban Ortiz-Ospina, and Max Roser (2023) - “Economic Inequality” Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/economic-inequality
 
 ### Week 12
 
