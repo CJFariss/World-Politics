@@ -75,9 +75,6 @@ The University of Michigan provides access to a U-M GPT tool: https://its.umich.
 
 You can read more about creating effective prompts here: https://teamdynamix.umich.edu/TDClient/30/Portal/KB/ArticleDet?ID=10680
 
-## Library Resources
-
-Contact the Political Science Librarian, Catherine Morse, for help finding relevant books, articles, and data. She can be reached at cmorse@umich.edu or you can make an appointment to meet with her online.
 
 ## Office Hours
 
@@ -92,6 +89,11 @@ The best way to contact me to ask additional questions about course material is 
 - Our World In Data. https://ourworldindata.org/. (Selected articles).
 
 - William Spaniel. "Lines on Maps." https://www.youtube.com/@Gametheory101. (Selected videos).
+
+
+## Library Resources
+
+Contact the Political Science Librarian, Catherine Morse, for help finding relevant books, articles, and data. She can be reached at cmorse@umich.edu or you can make an appointment to meet with her online.
 
 
 ## Course Outline
