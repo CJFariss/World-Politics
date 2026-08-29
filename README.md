@@ -77,13 +77,14 @@ The best way to contact me to ask additional questions about course material is 
 
 ## Primary Textbook
 
-Jeffry A. Frieden, David A. Lake, Kenneth A. Schultz, Susan D. Hyde, Stephanie J. Rickard. *World Politics: Interests, Interactions, Institutions.* 6th Edition. Please note that FLSHR is the acronym that I will use to refer to this textbook.
+- Jeffry A. Frieden, David A. Lake, Kenneth A. Schultz, Susan D. Hyde, Stephanie J. Rickard. *World Politics: Interests, Interactions, Institutions.* 6th Edition. Please note that FLSHR is the acronym that I will use to refer to this textbook.
 
 ## Additional Course Materials
 
-William Spaniel. "Lines on Maps." https://www.youtube.com/@Gametheory101. (Selected videos).
+- Our World In Data. https://ourworldindata.org/. (Selected articles).
 
-Our World In Data. https://ourworldindata.org/. (Selected articles).
+- William Spaniel. "Lines on Maps." https://www.youtube.com/@Gametheory101. (Selected videos).
+
 
 ## Course Outline
 
