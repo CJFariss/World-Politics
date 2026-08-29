@@ -16,7 +16,7 @@
 
 ## Course Overview
 
-This course introduces students to the study of international politics. No prior background in international relations is assumed. Students will acquire the basic analytic tools necessary to understand and explain a variety of international phenomena including war, terrorism, globalization, environmental cooperation, and human rights practices.
+This course introduces students to the study of world politics. No prior background in world politics or international relations is assumed. Students will acquire the basic analytic tools necessary to understand and explain a variety of global phenomena including war, terrorism, globalization, environmental cooperation, and human rights practices.
 
 ## Class Expectations and Grades
 
