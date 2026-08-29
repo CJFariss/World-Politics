@@ -37,11 +37,11 @@ Exams: Exams in the course are meant to allow you to demonstrate your understand
 ### Grade Values
 Please note that it is possible to earn more than 100 points in this course. 
 
-- InQuizitive Quizzes: 30 points (due weekly)
-- Data Visualization Assignment: 5 points (due the week after Thanksgiving break)
-- Midterm Exam: 10 points (Wednesday October 28)
-- Final Exam: 15 points (Monday December 14)
 - Participation: 40 points (20 points for the first half the semester and 20 points for the second half of the semester)
+- InQuizitive Quizzes: 30 points (due weekly)
+- Final Exam: 15 points (Monday December 14)
+- Midterm Exam: 10 points (Wednesday October 28)
+- Data Visualization Assignment: 5 points (due the week after Thanksgiving break)
 
 
 ### Grade Ranges
