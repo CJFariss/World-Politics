@@ -114,6 +114,8 @@ You can read more about creating effective prompts here: https://teamdynamix.umi
 
 - **FLSHR Ch. 1:** *What Shaped Our World? A Historical Introduction*
 
+- Discussion sections begin this week.
+
 ### Week 3
 
 - **FLSHR Ch. 2:** *Understanding Interests, Interactions, and Institutions*
