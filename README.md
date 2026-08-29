@@ -14,7 +14,7 @@
 
 **Graduate Student Instructors:**
 
-## Course Overview
+## Course Overview and Objectives
 
 This course introduces students to the study of world politics. No prior background in world politics or international relations is assumed. Students will acquire the basic analytic tools necessary to understand and explain a variety of global phenomena including war, terrorism, globalization, environmental cooperation, and human rights practices.
 
