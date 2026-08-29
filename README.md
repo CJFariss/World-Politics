@@ -111,6 +111,7 @@ Our World In Data. https://ourworldindata.org/. (Selected articles).
 ### Week 5
 
 - **FLSHR Ch. 4:** *Domestic Politics and War*
+- **OWD:** Bastian Herre, Lucas Rodés-Guirao, and Esteban Ortiz-Ospina (2013) - “Democracy” Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/democracy
 
 ### Week 6
 
