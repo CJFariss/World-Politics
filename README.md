@@ -26,10 +26,22 @@ Exams: Exams in the course are meant to allow you to demonstrate your understand
 
 - **Midterm Exam: Wednesday October 28, 4:00 pm – 5:20 pm.** The midterm exam covers content presented from Week 1 to Week 7. This is a written exam that will take place in the classroom without use of any electronic device. 
 - **Final Exam: Monday December 14, 4:00 pm – 6:00 pm.** The final exam covers content presented from Week 1 to Week 15. This is a written exam that will take place in the classroom without use of any electronic device. 
+
+
+Quizzes:
+
 - **InQuizitive Quizzes.** Complete each weekly InQuizitive quiz by Friday 11:59pm EST. There are 15 required InQuizitive quizs (one quiz each week). Learn more here: https://wwnorton.com/inquizitive. Links to the textbook chapters and InQuizitive quizzes are available in the Canvas website. 
 - **Discussion Section Bluebook Quizzes.** Brief, in person quizzes that will be taken in person during discussion section. Blue books provided by the instructors. 
-- **Data Visualization** With the assistance of the instructors, identify a data visualization that captures some aspect of world politics on the ourworldindata.org website. Recreate the visualization of this data using the program R (There will be an optional R tutorial for those students interested in learning to visualize data using this free program). Students may also use U-M GPT to assist in the re-creation of the ourworldindata.org data visualization using R. On the first page of this assignment describe the dataset, where you obtained it, and what it measures. On the second page provide the visualization and an informative caption about the data visuzlation. A complete citation to the ourworldindata.org article is also required.
 - **Check Your Understanding Boxes.** Each chapter in the textbook contains several check points for material covered in the relevant chapter. These are not required quizzes but valuable learning tools that I highly encourage students to complete. Students missing lecture are required to compelete these questions. Links to the textbook chapters are available in the Canvas website. 
+
+
+Assignments: 
+
+- **Data Visualization** With the assistance of the instructors, identify a data visualization that captures some aspect of world politics on the ourworldindata.org website. Recreate the visualization of this data using the program R (There will be an optional R tutorial for those students interested in learning to visualize data using this free program). Students may also use U-M GPT to assist in the re-creation of the ourworldindata.org data visualization using R. On the first page of this assignment describe the dataset, where you obtained it, and what it measures. On the second page provide the visualization and an informative caption about the data visuzlation. A complete citation to the ourworldindata.org article is also required.
+
+
+Participation:
+
 - **Class and Exam Attendance.** This is an in-person class in both the lectures and the sections. Students are therefore expected to attend all of the lectures and all of the meetings of their discussion section. Students are also expected to take the midterm exam and final exam at the scheduled times. Alternate times for the midterm exam and final exam are possible only for students who can demonstrate that taking the exam at the scheduled time would impose a serious hardship on them; Professor Fariss is the final arbiter of what constitutes a serious hardship. Students who cannot take examinations at the scheduled times for medical reasons must produce a valid medical excuse from a doctor. Students who will be out of town on the day of an exam on university business must provide documentation in advance of the need to travel that day.
 - **Attendance Grade Policy.** Students will not receive a penalty for missing lectures if and only if they have completed the **Check Your Understanding Boxes** for the chapter covered during a missed lecture. Students may make up to three missed lectures this way without a grade reduction. Students may miss one section meeting without a grade reduction. It is not possible to make up the **Discussion Section Bluebook Quizzes.**
 - **Participation and Intellectual Engagement.** This is primarily evaluated by (1) attendance to lectures and discussion sections, (2) **Discussion Section Bluebook Quizzes**, and (3) comments and questions made during lecture, section, or office hours. 
