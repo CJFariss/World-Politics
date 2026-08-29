@@ -26,9 +26,8 @@ Exams: Exams in the course are meant to allow you to demonstrate your understand
 
 - **Midterm Exam: Wednesday October 28, 4:00 pm – 5:20 pm.** The midterm exam covers content presented from Week 1 to Week 7.
 - **Final Exam: Monday December 14, 4:00 pm – 6:00 pm.** The final exam covers content presented from Week 1 to Week 15.
-
-InQuizitive quizzes: Complete each weekly InQuizitive quiz by Friday 11:59pm EST. There are 15 required InQuizitive quizs (one quiz each week). Learn more here: https://wwnorton.com/inquizitive
-
+- **InQuizitive Quizzes.** Complete each weekly InQuizitive quiz by Friday 11:59pm EST. There are 15 required InQuizitive quizs (one quiz each week). Learn more here: https://wwnorton.com/inquizitive. Links to the textbook chapters and InQuizitive quizzes are available in the Canvas website. 
+- **Discussion Section Bluebook Quizzes.** Brief, in person quizzes that will be taken in person during discussion section.
 
 ### Grade Ranges
 
