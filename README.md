@@ -90,6 +90,7 @@ Our World In Data. https://ourworldindata.org/. (Selected articles).
 ### Week 1
 
 - **FLSHR:** *Introduction*
+
 - No discussion sections this week.
   
 ### Week 2
@@ -162,6 +163,8 @@ Our World In Data. https://ourworldindata.org/. (Selected articles).
 - **FLSHR Ch. 12:** *Human Rights*
 
 - **OWD:** Bastian Herre and Pablo Arriagada (2016) — "Human Rights." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/human-rights
+
+- No discussion sections this week.
 
 ### Week 14
 
