@@ -90,8 +90,11 @@ Our World In Data. https://ourworldindata.org/. (Selected articles).
 ### Week 1
 
 - **FLSHR:** *Introduction*
-
+- No discussion sections this week.
+  
 ### Week 2
+
+- No class on Monday in observance of the Labor Day holiday. 
 
 - **FLSHR Ch. 1:** *What Shaped Our World? A Historical Introduction*
 
