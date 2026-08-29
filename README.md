@@ -106,7 +106,7 @@ Our World In Data. https://ourworldindata.org/. (Selected articles).
 
 - **FLSHR Ch. 3:** *Why Are There Wars?*
 
-- **OWD:** Bastian Herre, Lucas Rodés-Guirao, and Max Roser (2024) — "War and Peace." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/war-and-peace
+- **OWD:** Bastian Herre, Lucas Rodés-Guirao, and Max Roser (2024) — "War and Peace." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/war-and-peace [Online Resource]
 
 ### Week 5
 
@@ -119,6 +119,8 @@ Our World In Data. https://ourworldindata.org/. (Selected articles).
 ### Week 7
 
 - **FLSHR Ch. 6:** *Violence by Nonstate Actors: Civil War and Terrorism*
+
+- **OWD:** Bastian Herre, Veronika Samborska, Hannah Ritchie, and Max Roser (2023) - “Terrorism” Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/terrorism
 
 ### Week 8
 
@@ -143,6 +145,8 @@ Our World In Data. https://ourworldindata.org/. (Selected articles).
 ### Week 11
   
 - **FLSHR Ch. 10:** *Development: Causes of the Wealth and Poverty of Nations*
+
+- **OWD:** Max Roser, Bertha Rohenkohl, Pablo Arriagada, Joe Hasell, Hannah Ritchie, and Esteban Ortiz-Ospina (2023) - “Economic Growth” Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/economic-growth 
 
 ### Week 12
 
