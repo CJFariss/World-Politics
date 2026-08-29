@@ -65,7 +65,7 @@ Please note that it is possible to earn more than 100 points in this course.
 - D [60–70)
 - F [0–60)
 
-### Introduction to R
+### Introduction to R and U-M GPT
 
 I will introduce students to the R computing environment. The purpose of this introduction is to teach students how to load data into the R computing environment and then produce a graph with that data as part of the data visualization project.
 
