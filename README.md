@@ -68,11 +68,13 @@ Jeffry A. Frieden, David A. Lake, Kenneth A. Schultz, Susan D. Hyde, Stephanie J
 
 William Spaniel. "Lines on Maps." https://www.youtube.com/@Gametheory101. (Selected videos).
 
-Our World In Data. https://ourworldindata.org/
+Our World In Data. https://ourworldindata.org/. (Selected articles).
 
 ## Course Outline
 
 ### Week 1
+
+- **FLSHR:** *Introduction*
 
 ### Week 2
 
