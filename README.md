@@ -32,6 +32,17 @@ Exams: Exams in the course are meant to allow you to demonstrate your understand
 - **Check Your Understanding Boxes.** Each chapter in the textbook contains several check points for material covered in the relevant chapter. These are not required quizzes but valuable learning tools that I highly encourage students to complete. Students missing lecture are required to compelete these questions. Links to the textbook chapters are available in the Canvas website. 
 - **Class and Exam Attendance.** This is an in-person class in both the lectures and the sections. Students are therefore expected to attend all of the lectures and all of the meetings of their discussion section. Students are also expected to take the midterm exam and final exam at the scheduled times. Alternate times for the midterm exam and final exam are possible only for students who can demonstrate that taking the exam at the scheduled time would impose a serious hardship on them; Professor Fariss is the final arbiter of what constitutes a serious hardship. Students who cannot take examinations at the scheduled times for medical reasons must produce a valid medical excuse from a doctor. Students who will be out of town on the day of an exam on university business must provide documentation in advance of the need to travel that day.
 - **Attendance Grade Policy.** Students will not receive a penalty for missing lectures if and only if they have completed the **Check Your Understanding Boxes** for the chapter covered during a missed lecture. Students may make up to three missed lectures this way without a grade reduction. Students may miss one section meeting without a grade reduction. It is not possible to make up the **Discussion Section Bluebook Quizzes.**
+- **Participation and Intellectual Engagement.** This is primarily evaluated by (1) attendance to lectures and discussion sections, (2) **Discussion Section Bluebook Quizzes**, and (3) comments and questions made during lecture, section, or office hours. 
+
+### Grade Values
+Please note that it is possible to earn more than 100 points in this course. 
+
+- InQuizitive Quizzes: 30 points (due weekly)
+- Data Visualization Assignment: 5 points (due the week after Thanksgiving break)
+- Midterm Exam: 10 points (Wednesday October 28)
+- Final Exam: 15 points (Monday December 14)
+- Participation: 40 points (20 points for the first half the semester and 20 points for the second half of the semester)
+
 
 ### Grade Ranges
 
