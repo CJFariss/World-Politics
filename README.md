@@ -187,6 +187,14 @@ The best way to contact me to ask additional questions about course material is 
 
 ## Additional Course Information
 
+### Academic Integrity
+
+The LSA undergraduate academic community, like all communities, functions best when its members treat one another with honesty, fairness, respect, and trust. The College holds all members of its community to high standards of scholarship and integrity. To accomplish its mission of providing an optimal educational environment and developing leaders of society, the College promotes the assumption of personal responsibility and integrity and prohibits all forms of academic dishonesty and misconduct. Academic dishonesty may be understood as any action or attempted action that may result in creating an unfair academic advantage for oneself or an unfair academic advantage or disadvantage for any other member or members of the academic community. Conduct, without regard to motive, that violates the academic integrity and ethical standards of the College community cannot be tolerated. The College seeks vigorously to achieve compliance with its community standards of academic integrity. Violations of the standards will not be tolerated and will result in serious consequences and disciplinary action.
+
+### Grade Grievances
+
+If you believe a grade you have received is unfair or in error, you will need to do the following: Wait 24 hours after receiving the grade before approaching your instructor. Provide an explanation in writing for why the grade you received was unfair or in error. If you believe the instructor's response fails to address your claim of unfairness or error, you may petition the department's Director of Undergraduate Studies at the latest within the first five weeks of classes following the completion of the course. You must convey in writing the basis for the complaint, with specific evidence in support of the argument that the grade either was given in error or was unfairly determined. This formal complaint also should summarize the outcome of the initial inquiry to the course instructor, indicating which aspects are in dispute. Within three weeks of the receipt of the petition, the DUS will determine whether to convene the Undergraduate Affairs Committee, the student, and the instructor(s) for a formal hearing. Further details on this process are included on the department website under Advising > Contesting a Grade.
+
 ### Student Mental Health and Wellbeing
 
 University of Michigan is committed to advancing the mental health and wellbeing of its students. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available.
@@ -196,14 +204,6 @@ For help, contact Counseling and Psychological Services (CAPS) at (734) 764-8312
 You may also consult University Health Service (UHS) at (734) 764-8320 and https://www.uhs.umich.edu/mentalhealthsvcs, or for alcohol or drug concerns, see www.uhs.umich.edu/aodresources.
 
 For a listing of other mental health resources available on and off campus, visit: http://umich.edu/~mhealth/
-
-### Academic Integrity
-
-The LSA undergraduate academic community, like all communities, functions best when its members treat one another with honesty, fairness, respect, and trust. The College holds all members of its community to high standards of scholarship and integrity. To accomplish its mission of providing an optimal educational environment and developing leaders of society, the College promotes the assumption of personal responsibility and integrity and prohibits all forms of academic dishonesty and misconduct. Academic dishonesty may be understood as any action or attempted action that may result in creating an unfair academic advantage for oneself or an unfair academic advantage or disadvantage for any other member or members of the academic community. Conduct, without regard to motive, that violates the academic integrity and ethical standards of the College community cannot be tolerated. The College seeks vigorously to achieve compliance with its community standards of academic integrity. Violations of the standards will not be tolerated and will result in serious consequences and disciplinary action.
-
-### Grade Grievances
-
-If you believe a grade you have received is unfair or in error, you will need to do the following: Wait 24 hours after receiving the grade before approaching your instructor. Provide an explanation in writing for why the grade you received was unfair or in error. If you believe the instructor's response fails to address your claim of unfairness or error, you may petition the department's Director of Undergraduate Studies at the latest within the first five weeks of classes following the completion of the course. You must convey in writing the basis for the complaint, with specific evidence in support of the argument that the grade either was given in error or was unfairly determined. This formal complaint also should summarize the outcome of the initial inquiry to the course instructor, indicating which aspects are in dispute. Within three weeks of the receipt of the petition, the DUS will determine whether to convene the Undergraduate Affairs Committee, the student, and the instructor(s) for a formal hearing. Further details on this process are included on the department website under Advising > Contesting a Grade.
 
 ### Accommodations for Students with Disabilities
 
