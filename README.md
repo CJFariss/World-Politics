@@ -28,7 +28,7 @@ Read all assigned materials and be prepared to discuss each piece during the ass
 - **Final Exam: Monday December 14, 4:00 pm – 6:00 pm.** The final exam covers content presented from Week 1 to Week 15. This is a written exam that will take place in the classroom without use of any electronic device. 
 
 
-**Quizzes and Assignments:** We will work together through the Canvas page, during class lectures, and discussion, and outside of class to complete several learning objectives.
+**Quizzes and Assignments:** Quiz content will be available through the U-M Canvas page, during class lectures, discussion sections, and outside of class. These quizzes support several learning objectives.
 
 - **InQuizitive Quizzes.** Complete each weekly InQuizitive quiz by Friday 11:59pm EST. There are 15 required InQuizitive quizs (one quiz each week). Learn more here: https://wwnorton.com/inquizitive. Links to the textbook chapters and InQuizitive quizzes are available in the Canvas website. 
 - **Discussion Section Bluebook Quizzes.** Brief, in person quizzes that will be taken in person during discussion section. Blue books provided by the instructors. 
