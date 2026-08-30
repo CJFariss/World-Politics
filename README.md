@@ -12,15 +12,15 @@
 
 **Instructor Office Hours:** Tuesday, 11:00am–12:30pm EST. Wednesday, 2:00pm–3:30pm EST. Institute for Social Research atrium. 426 Thompson St.
 
-**Graduate Student Instructors:**
+**Graduate Student Instructors:** See the Canvas page. 
 
 ## Course Overview and Objectives
 
-This course introduces students to the study of world politics. No prior background in world politics or international relations is assumed. Students will acquire the basic analytic tools necessary to understand and explain a variety of global phenomena including war, terrorism, globalization, environmental cooperation, and human rights practices.
+This course introduces students to the study of world politics. No prior background in world politics or international relations is assumed. Students will acquire the basic analytic tools necessary to understand and explain a variety of global phenomena including war, terrorism, globalization, environmental cooperation, international law, and human rights practices.
 
 ## Class Expectations and Grades
 
-Read all assigned materials and be prepared to discuss each piece during the assigned class week. As students, we learn more when we actively engage with material instead of passively consuming it. This insight is supported by extensive research from college-level courses. This is a large course, but we will work to actively learn together in the main lecture times and during discussion section.
+Read all assigned materials and be prepared to discuss each piece during the assigned class week. As students, we learn more when we actively engage with material instead of passively consuming it. This insight is supported by extensive research from college-level courses.^[This is an inline footnote, no separate definition needed.] This is a large course, but we will work to actively learn together in the main lecture times and during discussion section.
 
 **Exams:** Exams in the course are meant to allow you to demonstrate your understanding of course concepts. They can consist of a identification questions, essay questions and/or multiple choice questions. The final exam will be cumulative. Further details will be distributed in class.
 
