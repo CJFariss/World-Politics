@@ -22,7 +22,7 @@ This course introduces students to the study of world politics. No prior backgro
 
 Read all assigned materials and be prepared to discuss each piece during the assigned class week. As students, we learn more when we actively engage with material instead of passively consuming it. This insight is supported by extensive research from college-level courses (https://doi.org/10.1073/pnas.1821936116). This is a large course, but we will work to actively learn together in the main lecture times and during discussion section.
 
-**Exams:** Exams in the course are meant to allow you to demonstrate your understanding of course concepts. They can consist of a identification questions, essay questions and/or multiple choice questions. The final exam will be cumulative. Further details will be distributed in class.
+**Exams:** Exams in the course are meant to allow you to demonstrate your understanding of course concepts. Eaxm content will consist of some combination of identification questions, essay questions, and multiple choice questions. The midterm exam will cover content from week 1 through week 7. The final exam will cover content from all weeks. Further details will be distributed in class.
 
 - **Midterm Exam: Wednesday October 28, 4:00 pm – 5:20 pm.** The midterm exam covers content presented from Week 1 to Week 7. This is a written exam that will take place in the classroom without use of any electronic device. 
 - **Final Exam: Monday December 14, 4:00 pm – 6:00 pm.** The final exam covers content presented from Week 1 to Week 15. This is a written exam that will take place in the classroom without use of any electronic device. 
