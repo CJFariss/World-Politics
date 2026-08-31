@@ -66,8 +66,6 @@ Read all assigned materials and be prepared to discuss each piece during the ass
 
 
 ### Grade Values
-Please note that it is possible to earn more than 100 points in this course. 
-
 - Participation and Intellectual Engagement: 40 points (20 points for the first half of the semester and 20 points for the second half of the semester)
 - InQuizitive Quizzes: 30 points (due weekly)
 - Final Exam: 15 points (Monday December 14)
