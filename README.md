@@ -249,7 +249,7 @@ University of Michigan is committed to advancing the mental health and wellbeing
 
 For help, contact Counseling and Psychological Services (CAPS) at (734) 764-8312 and [https://caps.umich.edu/](https://caps.umich.edu/) during and after hours, on weekends and holidays, or through its counselors physically located in schools on both North and Central Campus.
 
-You may also consult University Health Service (UHS) at (734) 764-8320 and https://www.uhs.umich.edu/mentalhealthsvcs, or for alcohol or drug concerns, see [www.uhs.umich.edu/aodresources](www.uhs.umich.edu/aodresources).
+You may also consult University Health Service (UHS) at (734) 764-8320 and [https://uhc.umich.edu/](https://uhc.umich.edu/), or for alcohol or drug concerns, see [www.uhs.umich.edu/aodresources](www.uhs.umich.edu/aodresources).
 
 For a listing of other mental health resources available on and off campus, visit: [umich.edu/~mhealth/](umich.edu/~mhealth/).
 
