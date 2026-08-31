@@ -23,9 +23,9 @@ This course introduces students to the study of world politics. No prior backgro
 ### Primary Textbook
 
 - Jeffry A. Frieden, David A. Lake, Kenneth A. Schultz, Susan D. Hyde, Stephanie J. Rickard. *World Politics: Interests, Interactions, Institutions.* 6th Edition. https://wwnorton.com/books/9781324115939. **FLSHR** is the acronym used for this material below.
-  — Learn more about the authors:
+    — Learn more about the authors:
     - Jeffry A. Frieden: https://jfrieden.scholars.harvard.edu/
-    — David A. Lake: https://quote.ucsd.edu/lake/
+    - David A. Lake: https://quote.ucsd.edu/lake/
     - Kenneth A. Schultz: https://politicalscience.stanford.edu/people/kenneth-schultz
     - Susan D. Hyde: https://hydesusan.github.io/
     - Stephanie J. Rickard: https://www.lse.ac.uk/people/stephanie-rickard
@@ -33,11 +33,11 @@ This course introduces students to the study of world politics. No prior backgro
 ### Additional Course Materials
 
 - Our World In Data. https://ourworldindata.org/. (Selected articles). **OWD** is the acronym used for this material below.
-  — Learn more about the authors:
+    — Learn more about the authors:
     - Max Roser: https://ourworldindata.org/team/max-roser
 
 - William Spaniel. "Lines on Maps." https://www.youtube.com/@Gametheory101. (Selected videos).
-  — Learn more about the authors:
+    — Learn more about the authors:
     - William Spaniel: https://williamspaniel.com/
 
 
