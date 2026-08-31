@@ -30,7 +30,7 @@ This course introduces students to the study of world politics. No prior backgro
    
 ### Additional Course Materials
 - Our World In Data. https://ourworldindata.org/. (Selected articles). **OWD** is the acronym used for this material below.
-  - Max Roser: https://ourworldindata.org/team/max-rose
+  - Links to Bios for the Full Team: https://ourworldindata.org/team
 - William Spaniel. "Lines on Maps." https://www.youtube.com/@Gametheory101. (Selected videos).
   - William Spaniel: https://williamspaniel.com/
 
