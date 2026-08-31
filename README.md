@@ -39,7 +39,7 @@ This course introduces students to the study of world politics. No prior backgro
 
 - I will introduce students to the R computing environment (https://cran.r-project.org/). The purpose of this introduction is to teach students how to load data into the R computing environment and then produce a graph with that data as part of the data visualization project.
 - Students will need to learn how to use three functions in R for this project: `getwd()`, `read.csv()`, and `plot()` or `barplot()`. You will be able to complete the data visualization project with just these simple functions. The use of R for the Data Visualization Assignment is required.
--  You may choose to use U-M GPT or another Chat GPT program to create the R code for this project. **If you choose to use U-M GPT or another Chat GPT program, you must submit (1) the prompt used to generate the output, (2) the specific GPT program used, and (3) the date and time you entered the prompt.** The University of Michigan provides access to a U-M GPT tool: https://its.umich.edu/computing/ai/gpt-in-depth. You can read more about creating effective prompts here: https://teamdynamix.umich.edu/TDClient/30/Portal/KB/ArticleDet?ID=10680.
+-  You may choose to use U-M GPT or another agentic coding program to create the R code for this project. **If you choose to use U-M GPT or agentic coding program, you must submit (1) the prompt used to generate the output, (2) the specific program used, and (3) the date and time you entered the prompt.** The University of Michigan provides access to a U-M GPT tool: https://its.umich.edu/computing/ai/gpt-in-depth. You can read more about creating effective prompts here: https://teamdynamix.umich.edu/TDClient/30/Portal/KB/ArticleDet?ID=10680.
 
 ## Class Expectations and Grades
 
@@ -204,6 +204,9 @@ The best way to contact me to ask additional questions about course material is 
 ### Academic Integrity
 
 The LSA undergraduate academic community, like all communities, functions best when its members treat one another with honesty, fairness, respect, and trust. The College holds all members of its community to high standards of scholarship and integrity. To accomplish its mission of providing an optimal educational environment and developing leaders of society, the College promotes the assumption of personal responsibility and integrity and prohibits all forms of academic dishonesty and misconduct. Academic dishonesty may be understood as any action or attempted action that may result in creating an unfair academic advantage for oneself or an unfair academic advantage or disadvantage for any other member or members of the academic community. Conduct, without regard to motive, that violates the academic integrity and ethical standards of the College community cannot be tolerated. The College seeks vigorously to achieve compliance with its community standards of academic integrity. Violations of the standards will not be tolerated and will result in serious consequences and disciplinary action.
+
+### Digital Device Policy
+Digital devices are not allowed during lectures without prior permission or unless otherwise indicated. During the active learning sessions that occur during discussion sections, you will need to use printed material and/or pre-drafted notes to complete any active learning tasks that we assign. We will collect the hand-written work after each class period. See the description of the **Discussion Section Bluebook Quizzes** above. If you need additional time to prepare for active learning tasks, you are invited to join my office hours. 
 
 ### Grade Grievances
 
