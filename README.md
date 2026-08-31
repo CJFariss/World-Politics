@@ -77,6 +77,7 @@ Read all assigned materials and be prepared to discuss each piece during the ass
 
 ### Grade Ranges
 
+- A+ [97+] Please note that this option is only possible under exceptional circumstances and in consultation with the instructor. 
 - A [93–100]
 - A- [90–93)
 - B+ [87–90)
