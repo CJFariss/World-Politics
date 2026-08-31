@@ -4,15 +4,15 @@
 
 ## Course Information
 
-**Instructor:** Christopher J. Fariss
+- **Instructor:** Christopher J. Fariss
 
-**Classroom Location:** 1210 CHEM
+- **Classroom Location:** 1210 CHEM
 
-**Course Time:** Monday and Wednesday 4:00pm–5:20pm EST.
+- **Course Time:** Monday and Wednesday 4:00pm–5:20pm EST.
 
-**Instructor Office Hours:** Tuesday, 11:00am–12:30pm EST. Wednesday, 2:00pm–3:30pm EST. Institute for Social Research atrium. 426 Thompson St.
+- **Instructor Office Hours:** Tuesday, 11:00am–12:30pm EST. Wednesday, 2:00pm–3:30pm EST. Institute for Social Research atrium. 426 Thompson St.
 
-**Graduate Student Instructors:** See the Canvas page. 
+- **Graduate Student Instructors:** See the Canvas page. 
 
 ## Course Overview and Objectives
 
