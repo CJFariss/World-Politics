@@ -123,13 +123,13 @@ The best way to contact me so that you can ask additional questions about course
 
 - **FLSHR Ch. 3:** *Why Are There Wars?*
 
-- **OWD:** Bastian Herre, Lucas Rodés-Guirao, and Max Roser (2024) — "War and Peace." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/war-and-peace 
+- **OWD:** Bastian Herre, Lucas Rodés-Guirao, and Max Roser (2024) — "War and Peace." Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/war-and-peace](https://ourworldindata.org/war-and-peace) 
 
 ### Week 5
 
 - **FLSHR Ch. 4:** *Domestic Politics and War*
  
-- **OWD:** Bastian Herre, Lucas Rodés-Guirao, and Esteban Ortiz-Ospina (2013) - “Democracy” Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/democracy
+- **OWD:** Bastian Herre, Lucas Rodés-Guirao, and Esteban Ortiz-Ospina (2013) - “Democracy” Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/democracy](https://ourworldindata.org/democracy)
 
 - U-M Library discussion.
 
@@ -143,7 +143,7 @@ The best way to contact me so that you can ask additional questions about course
 
 - **FLSHR Ch. 6:** *Violence by Nonstate Actors: Civil War and Terrorism*
 
-- **OWD:** Bastian Herre, Veronika Samborska, Hannah Ritchie, and Max Roser (2023) - “Terrorism” Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/terrorism
+- **OWD:** Bastian Herre, Veronika Samborska, Hannah Ritchie, and Max Roser (2023) - “Terrorism” Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/terrorism](https://ourworldindata.org/terrorism)
 
 ### Week 8
 
@@ -151,13 +151,13 @@ The best way to contact me so that you can ask additional questions about course
   
 - **FLSHR Ch. 7:** *Cross-Border Flows of Goods and Services*
 
-- **OWD:** Esteban Ortiz-Ospina et al. (2018) — "Trade and Globalization." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/trade-and-globalization
+- **OWD:** Esteban Ortiz-Ospina et al. (2018) — "Trade and Globalization." Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/trade-and-globalization](https://ourworldindata.org/trade-and-globalization)
 
 ### Week 9
 
 - **FLSHR Ch. 8:** *Cross-Border Flows of Money and People*
 
-- **OWD:** Fiona Spooner et al. (2022) — "Migration." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/migration
+- **OWD:** Fiona Spooner et al. (2022) — "Migration." Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/migration](https://ourworldindata.org/migration)
 
 - **Midterm: Wednesday October 28, 4:00 pm – 5:20 pm.** The midterm exam covers content presented from Week 1 to Week 7.
 
@@ -171,8 +171,8 @@ The best way to contact me so that you can ask additional questions about course
   
 - **FLSHR Ch. 10:** *Development: Causes of the Wealth and Poverty of Nations*
 
-- **OWD:** Max Roser, Bertha Rohenkohl, Pablo Arriagada, Joe Hasell, Hannah Ritchie, and Esteban Ortiz-Ospina (2023) - “Economic Growth” Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/economic-growth
--  **OWD:** Joe Hasell, Bertha Rohenkohl, Pablo Arriagada, Esteban Ortiz-Ospina, and Max Roser (2023) - “Economic Inequality” Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/economic-inequality
+- **OWD:** Max Roser, Bertha Rohenkohl, Pablo Arriagada, Joe Hasell, Hannah Ritchie, and Esteban Ortiz-Ospina (2023) - “Economic Growth” Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/economic-growth](https://ourworldindata.org/economic-growth)
+-  **OWD:** Joe Hasell, Bertha Rohenkohl, Pablo Arriagada, Esteban Ortiz-Ospina, and Max Roser (2023) - “Economic Inequality” Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/economic-inequality](https://ourworldindata.org/economic-inequality)
 
 ### Week 12
 
@@ -186,7 +186,7 @@ The best way to contact me so that you can ask additional questions about course
 
 - **FLSHR Ch. 12:** *Human Rights*
 
-- **OWD:** Bastian Herre and Pablo Arriagada (2016) — "Human Rights." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/human-rights
+- **OWD:** Bastian Herre and Pablo Arriagada (2016) — "Human Rights." Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/human-rights](https://ourworldindata.org/human-rights)
 
 - No discussion sections this week.
 
@@ -194,7 +194,7 @@ The best way to contact me so that you can ask additional questions about course
 
 - **FLSHR Ch. 13:** *The Global Environment*
 
-- **OWD:** Hannah Ritchie, Pablo Rosado, and Veronika Samborska (2024) - “Climate Change” Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/climate-change
+- **OWD:** Hannah Ritchie, Pablo Rosado, and Veronika Samborska (2024) - “Climate Change” Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/climate-change](https://ourworldindata.org/climate-change)
 
 - **Data Visualization Assignment:** Due at the end of the week. Data visualization presentations during sections this week. You will need a color printout of your data visualization during your assigned section. 
 
