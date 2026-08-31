@@ -135,8 +135,7 @@ The best way to contact me so that you can ask additional questions about course
 
 - **FLSHR Ch. 5:** *International Institutions and War*
   
-- *What is a hypothesis?*,
-- *What is a dependent variable?*, *What is an independent variable?*
+- *What is a hypothesis?*, *What is a dependent variable?*, *What is an independent variable?*
   
 ### Week 7
 
