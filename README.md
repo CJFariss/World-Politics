@@ -28,18 +28,15 @@ This course introduces students to the study of world politics. No prior backgro
     - Susan D. Hyde: https://hydesusan.github.io/
     - Stephanie J. Rickard: https://www.lse.ac.uk/people/stephanie-rickard
    
-<br>
 ### Additional Course Materials
 - Our World In Data. https://ourworldindata.org/. (Selected articles). **OWD** is the acronym used for this material below.
   - Max Roser: https://ourworldindata.org/team/max-rose
 - William Spaniel. "Lines on Maps." https://www.youtube.com/@Gametheory101. (Selected videos).
   - William Spaniel: https://williamspaniel.com/
 
-<br>
 ### Library Resources
 - Contact the Political Science Librarian, Catherine Morse, for help finding relevant books, articles, and data. She can be reached at cmorse@umich.edu or you can make an appointment to meet with her online.
 
-<br>
 ### Introduction to R for Data Visualization (and how to use U-M GPT)
 - I will introduce students to the R computing environment (https://cran.r-project.org/). The purpose of this introduction is to teach students how to load data into the R computing environment and then produce a graph with that data as part of the data visualization project.
 - Students will need to learn how to use three functions in R for this project: `getwd()`, `read.csv()`, and `plot()` or `barplot()`. You will be able to complete the data visualization project with just these simple functions. The use of R for the Data Visualization Assignment is required.
