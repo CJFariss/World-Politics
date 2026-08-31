@@ -45,7 +45,7 @@ This course introduces students to the study of world politics. No prior backgro
 
 ## Class Expectations and Grades
 
-Read all assigned materials and be prepared to discuss each piece during the assigned class week. As students, we learn more when we actively engage with material instead of passively consuming it. This insight is supported by extensive research from college-level courses (https://doi.org/10.1073/pnas.1821936116). This is a large course, but we will work to actively learn together in the main lecture times and during discussion section.
+Read all assigned materials and be prepared to discuss each piece during the assigned class week. As students, we learn more when we actively engage with material instead of passively consuming it. This insight is supported by extensive research from college-level courses ([https://doi.org/10.1073/pnas.1821936116](https://doi.org/10.1073/pnas.1821936116)). This is a large course, but we will work to actively learn together in the main lecture times and during discussion section.
 
 **Exams:** Exams in the course are meant to allow you to demonstrate your understanding of course concepts. Eaxm content will consist of some combination of identification questions, essay questions, and multiple choice questions. The midterm exam will cover content from week 1 through week 7. The final exam will cover content from all weeks. Further details will be distributed in class.
 
