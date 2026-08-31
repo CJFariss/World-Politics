@@ -114,6 +114,8 @@ The best way to contact me so that you can ask additional questions about course
 
 - **FLSHR Ch. 2:** *Understanding Interests, Interactions, and Institutions*
 
+- *What is an actor in world politics?*
+  
 ### Week 4
 
 - **FLSHR Ch. 3:** *Why Are There Wars?*
@@ -131,7 +133,10 @@ The best way to contact me so that you can ask additional questions about course
 ### Week 6
 
 - **FLSHR Ch. 5:** *International Institutions and War*
-
+  
+- *What is a hypothesis?*, *What makes a hypothesis testable?*
+- *What is a dependent variable?*, *What is an independent variable?*
+  
 ### Week 7
 
 - **FLSHR Ch. 6:** *Violence by Nonstate Actors: Civil War and Terrorism*
