@@ -4,7 +4,7 @@
 
 ## Course Information
 
-- **Instructor:** Christopher J. Fariss. Learn more about my research and teaching here: http://cfariss.com/.
+- **Instructor:** Christopher J. Fariss (Learn more about my research and teaching here: http://cfariss.com/).
 
 - **Classroom Location:** 1210 CHEM
 
