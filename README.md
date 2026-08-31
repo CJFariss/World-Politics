@@ -29,19 +29,19 @@ This course introduces students to the study of world politics. No prior backgro
     - Stephanie J. Rickard: [https://www.lse.ac.uk/people/stephanie-rickard](https://www.lse.ac.uk/people/stephanie-rickard)
    
 ### Additional Course Materials
-- Our World In Data. https://ourworldindata.org/. (Selected articles). **OWD** is the acronym used for this material below.
-  - Links to Bios for the Full Team: https://ourworldindata.org/team
-- William Spaniel. "Lines on Maps." https://www.youtube.com/@Gametheory101. (Selected videos).
-  - William Spaniel: https://williamspaniel.com/
+- Our World In Data. [https://ourworldindata.org/](https://ourworldindata.org/). (Selected articles). **OWD** is the acronym used for this material below.
+  - Links to Bios for the Full Team: [https://ourworldindata.org/team](https://ourworldindata.org/team)
+- William Spaniel. "Lines on Maps." [https://www.youtube.com/@Gametheory101](https://www.youtube.com/@Gametheory101). (Selected videos).
+  - William Spaniel: [https://williamspaniel.com/](https://williamspaniel.com/)
 
 ### Library Resources
 - Contact the Political Science Librarian, Catherine Morse, for help finding relevant books, articles, and data. She can be reached at cmorse@umich.edu or you can make an appointment to meet with her online.
 
 ### Introduction to R for Data Visualization (and how to use U-M GPT)
-- I will introduce students to the R computing environment (https://cran.r-project.org/). The purpose of this introduction is to teach students how to load data into the R computing environment and then produce a graph with that data as part of the data visualization project.
+- I will introduce students to the R computing environment ([https://cran.r-project.org/](https://cran.r-project.org/)). The purpose of this introduction is to teach students how to load data into the R computing environment and then produce a graph with that data as part of the data visualization project.
 - Students will need to learn how to use three functions in R for this project: `getwd()`, `read.csv()`, and `plot()` or `barplot()`. You will be able to complete the data visualization project with just these simple functions. The use of R for the Data Visualization Assignment is required.
--  You may choose to use U-M GPT or another agentic coding program to create the R code for this project. **If you choose to use U-M GPT or another agentic coding program, you must submit (1) the prompt used to generate the output, (2) the specific program used, and (3) the date and time you entered the prompt.** The University of Michigan provides access to a U-M GPT tool: https://its.umich.edu/computing/ai/gpt-in-depth. You can read more about creating effective prompts here: https://teamdynamix.umich.edu/TDClient/30/Portal/KB/ArticleDet?ID=10680.
--  If you are curious, I also teach a data science course that builds on these tools. You can learn more about this other course here: https://github.com/CJFariss/Data-Science-International-Studies. Other data science learning material is available here: https://github.com/CJFariss/R-Program-Challenges. Other course material is available here: https://github.com/CJFariss/Programming-and-Simulation-Methods-for-Computational-Social-Science
+-  You may choose to use U-M GPT or another agentic coding program to create the R code for this project. **If you choose to use U-M GPT or another agentic coding program, you must submit (1) the prompt used to generate the output, (2) the specific program used, and (3) the date and time you entered the prompt.** The University of Michigan provides access to a U-M GPT tool: [https://its.umich.edu/computing/ai/gpt-in-depth](https://its.umich.edu/computing/ai/gpt-in-depth). You can read more about creating effective prompts here: [https://teamdynamix.umich.edu/TDClient/30/Portal/KB/ArticleDet?ID=10680](https://teamdynamix.umich.edu/TDClient/30/Portal/KB/ArticleDet?ID=10680).
+-  If you are curious, I also teach a data science course that builds on these tools. You can learn more about this other course here: https://github.com/CJFariss/Data-Science-International-Studies. Other data science learning material is available here: [https://github.com/CJFariss/R-Program-Challenges](https://github.com/CJFariss/R-Program-Challenges). Other course material is available here: [https://github.com/CJFariss/Programming-and-Simulation-Methods-for-Computational-Social-Science](https://github.com/CJFariss/Programming-and-Simulation-Methods-for-Computational-Social-Science).
 
 ## Class Expectations and Grades
 
