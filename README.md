@@ -21,12 +21,12 @@ This course introduces students to the study of world politics. No prior backgro
 ## Course Resources
 
 ### Primary Textbook
-- Jeffry A. Frieden, David A. Lake, Kenneth A. Schultz, Susan D. Hyde, Stephanie J. Rickard. *World Politics: Interests, Interactions, Institutions.* 6th Edition. https://wwnorton.com/books/9781324115939. **FLSHR** is the acronym used for this material below.
-    - Jeffry A. Frieden: https://jfrieden.scholars.harvard.edu/
-    - David A. Lake: https://quote.ucsd.edu/lake/
-    - Kenneth A. Schultz: https://politicalscience.stanford.edu/people/kenneth-schultz
-    - Susan D. Hyde: https://hydesusan.github.io/
-    - Stephanie J. Rickard: https://www.lse.ac.uk/people/stephanie-rickard
+- Jeffry A. Frieden, David A. Lake, Kenneth A. Schultz, Susan D. Hyde, Stephanie J. Rickard. *World Politics: Interests, Interactions, Institutions.* 6th Edition. [https://wwnorton.com/books/9781324115939](https://wwnorton.com/books/9781324115939). **FLSHR** is the acronym used for this material below.
+    - Jeffry A. Frieden: [https://jfrieden.scholars.harvard.edu/](https://jfrieden.scholars.harvard.edu/)
+    - David A. Lake: [https://quote.ucsd.edu/lake/](https://quote.ucsd.edu/lake/)
+    - Kenneth A. Schultz: [https://politicalscience.stanford.edu/people/kenneth-schultz](https://politicalscience.stanford.edu/people/kenneth-schultz)
+    - Susan D. Hyde: [https://hydesusan.github.io/](https://hydesusan.github.io/)
+    - Stephanie J. Rickard: [https://www.lse.ac.uk/people/stephanie-rickard](https://www.lse.ac.uk/people/stephanie-rickard)
    
 ### Additional Course Materials
 - Our World In Data. https://ourworldindata.org/. (Selected articles). **OWD** is the acronym used for this material below.
