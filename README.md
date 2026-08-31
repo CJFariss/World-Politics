@@ -18,6 +18,29 @@
 
 This course introduces students to the study of world politics. No prior background in world politics or international relations is assumed. Students will acquire the basic analytic tools necessary to understand and explain a variety of global phenomena including war, terrorism, globalization, environmental cooperation, international law, and human rights practices.
 
+## Course Resources
+
+### Primary Textbook
+
+- Jeffry A. Frieden, David A. Lake, Kenneth A. Schultz, Susan D. Hyde, Stephanie J. Rickard. *World Politics: Interests, Interactions, Institutions.* 6th Edition. Please note that FLSHR is the acronym that I will use to refer to this textbook.
+
+### Additional Course Materials
+
+- Our World In Data. https://ourworldindata.org/. (Selected articles).
+
+- William Spaniel. "Lines on Maps." https://www.youtube.com/@Gametheory101. (Selected videos).
+
+
+### Library Resources
+
+Contact the Political Science Librarian, Catherine Morse, for help finding relevant books, articles, and data. She can be reached at cmorse@umich.edu or you can make an appointment to meet with her online.
+
+### Introduction to R and U-M GPT
+
+I will introduce students to the R computing environment (https://cran.r-project.org/). The purpose of this introduction is to teach students how to load data into the R computing environment and then produce a graph with that data as part of the data visualization project.
+
+Students will need to learn how to use three functions in R for this project: `getwd()`, `read.csv()`, and `plot()` or `barplot()`. You will be able to complete the data visualization project with just these simple functions. The use of R for the Data Visualization Assignment is required. You may choose to use U-M GPT or another Chat GPT program to create the R code for this project. **If you choose to use U-M GPT or another Chat GPT program, you must submit (1) the prompt used to generate the output, (2) the specific GPT program used, and (3) the date and time you entered the prompt.** The University of Michigan provides access to a U-M GPT tool: https://its.umich.edu/computing/ai/gpt-in-depth. You can read more about creating effective prompts here: https://teamdynamix.umich.edu/TDClient/30/Portal/KB/ArticleDet?ID=10680.
+
 ## Class Expectations and Grades
 
 Read all assigned materials and be prepared to discuss each piece during the assigned class week. As students, we learn more when we actively engage with material instead of passively consuming it. This insight is supported by extensive research from college-level courses (https://doi.org/10.1073/pnas.1821936116). This is a large course, but we will work to actively learn together in the main lecture times and during discussion section.
@@ -70,33 +93,6 @@ Please note that it is possible to earn more than 100 points in this course.
 ## Office Hours
 
 The best way to contact me to ask additional questions about course material is to attend office hours. I hold extensive office hours each week in the atrium area on the first floor of the Institute for Social Research (ISR) building, which is located at 426 Thompson St., Ann Arbor, MI 48104. Just like in the classroom, office hours sessions are designed to be an open and inclusive learning environment for my students. The ISR atrium offers an open space that accommodates small to medium size groups. There will often be more than one student seeking feedback during office hours. Each of you are welcome to join the group office hours session and ask questions or participate in discussion. I am also available outside of office hours via a message on the course management software (Canvas) or at my U-M email address: cjfariss@umich.edu.
-
-## Course Resources
-
-### Primary Textbook
-
-- Jeffry A. Frieden, David A. Lake, Kenneth A. Schultz, Susan D. Hyde, Stephanie J. Rickard. *World Politics: Interests, Interactions, Institutions.* 6th Edition. Please note that FLSHR is the acronym that I will use to refer to this textbook.
-
-### Additional Course Materials
-
-- Our World In Data. https://ourworldindata.org/. (Selected articles).
-
-- William Spaniel. "Lines on Maps." https://www.youtube.com/@Gametheory101. (Selected videos).
-
-
-### Library Resources
-
-Contact the Political Science Librarian, Catherine Morse, for help finding relevant books, articles, and data. She can be reached at cmorse@umich.edu or you can make an appointment to meet with her online.
-
-### Introduction to R and U-M GPT
-
-I will introduce students to the R computing environment. The purpose of this introduction is to teach students how to load data into the R computing environment and then produce a graph with that data as part of the data visualization project.
-
-Students will need to learn how to use three functions in R for this project: `getwd()`, `read.csv()`, and `plot()` or `barplot()`. You will be able to complete the data visualization project with just these simple functions. The use of R for the Data Visualization Assignment is required. You may choose to use U-M GPT or another Chat GPT program to create the R code for this project. If you choose to use U-M GPT or another Chat GPT program, you must submit (1) the prompt used to generate the output, (2) the specific GPT program used, and (3) the date and time you entered the prompt.
-
-The University of Michigan provides access to a U-M GPT tool: https://its.umich.edu/computing/ai/gpt-in-depth
-
-You can read more about creating effective prompts here: https://teamdynamix.umich.edu/TDClient/30/Portal/KB/ArticleDet?ID=10680
 
 
 
