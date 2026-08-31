@@ -134,7 +134,7 @@ The best way to contact me so that you can ask additional questions about course
 
 - **FLSHR Ch. 5:** *International Institutions and War*
   
-- *What is a hypothesis?*, *What makes a hypothesis testable?*
+- *What is a hypothesis?*,
 - *What is a dependent variable?*, *What is an independent variable?*
   
 ### Week 7
@@ -162,6 +162,8 @@ The best way to contact me so that you can ask additional questions about course
 ### Week 10
 
 - **FLSHR Ch. 9:** *International Monetary Relations*
+
+- *Introduction to R and Data Visulaization*, 
 
 ### Week 11
   
