@@ -24,6 +24,11 @@ This course introduces students to the study of world politics. No prior backgro
 
 - Jeffry A. Frieden, David A. Lake, Kenneth A. Schultz, Susan D. Hyde, Stephanie J. Rickard. *World Politics: Interests, Interactions, Institutions.* 6th Edition. https://wwnorton.com/books/9781324115939. **FLSHR** is the acronym used for this material below.
 
+  — Learn more about the authors:
+    - Jeffry A. Frieden: 
+    — David A. Lake: https://quote.ucsd.edu/lake/
+  - Kenneth A. Schultz, Susan D. Hyde, Stephanie J. Rickard.
+  
 ### Additional Course Materials
 
 - Our World In Data. https://ourworldindata.org/. (Selected articles). **OWD** is the acronym used for this material below.
