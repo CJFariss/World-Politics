@@ -198,6 +198,8 @@ The best way to contact me so that you can ask additional questions about course
 
 - **FLSHR Ch. 14:** *Challenges to the Global Order*
 
+- Wrap up and review
+  
 ### Week 16: Finals Week
 
 - **Final Exam: Monday December 14, 4:00 pm – 6:00 pm.** The final exam covers content presented from Week 1 to Week 15.
