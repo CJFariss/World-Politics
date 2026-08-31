@@ -66,7 +66,7 @@ Read all assigned materials and be prepared to discuss each piece during the ass
 
 
 ### Grade Values
-- Participation and Intellectual Engagement: 40 points (20 points for the first half of the semester and 20 points for the second half of the semester)
+- Participation and Intellectual Engagement: 36 points (18 points for the first half of the semester and 18 points for the second half of the semester)
 - InQuizitive Quizzes: 30 points (due weekly)
 - Final Exam: 15 points (Monday December 14)
 - Midterm Exam: 10 points (Wednesday October 28)
