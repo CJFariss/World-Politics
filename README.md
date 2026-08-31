@@ -40,7 +40,7 @@ This course introduces students to the study of world politics. No prior backgro
 - I will introduce students to the R computing environment (https://cran.r-project.org/). The purpose of this introduction is to teach students how to load data into the R computing environment and then produce a graph with that data as part of the data visualization project.
 - Students will need to learn how to use three functions in R for this project: `getwd()`, `read.csv()`, and `plot()` or `barplot()`. You will be able to complete the data visualization project with just these simple functions. The use of R for the Data Visualization Assignment is required.
 -  You may choose to use U-M GPT or another agentic coding program to create the R code for this project. **If you choose to use U-M GPT or agentic coding program, you must submit (1) the prompt used to generate the output, (2) the specific program used, and (3) the date and time you entered the prompt.** The University of Michigan provides access to a U-M GPT tool: https://its.umich.edu/computing/ai/gpt-in-depth. You can read more about creating effective prompts here: https://teamdynamix.umich.edu/TDClient/30/Portal/KB/ArticleDet?ID=10680.
--  If you are curious, I also teach a data science course that builds on these tools. You can learn more about this other course here: https://github.com/CJFariss/Data-Science-International-Studies.
+-  If you are curious, I also teach a data science course that builds on these tools. You can learn more about this other course here: https://github.com/CJFariss/Data-Science-International-Studies. Other course material is available here: 
 
 ## Class Expectations and Grades
 
