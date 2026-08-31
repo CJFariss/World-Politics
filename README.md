@@ -163,7 +163,7 @@ The best way to contact me so that you can ask additional questions about course
 
 - **FLSHR Ch. 9:** *International Monetary Relations*
 
-- *Introduction to R and Data Visulaization*, 
+- *Introduction to R and Data Visulaization*
 
 ### Week 11
   
@@ -175,6 +175,8 @@ The best way to contact me so that you can ask additional questions about course
 ### Week 12
 
 - **FLSHR Ch. 11:** *International Law, Norms, and Order*
+
+- *What is a Data Operationalization?*
 
 ### Week 13
 
