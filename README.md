@@ -228,7 +228,10 @@ Digital devices are not allowed during lectures without prior permission or unle
 
 ### Grade Grievances
 
+Any appeal concerning the grading of an assignment must be made in writing and submitted first to the leader of your discussion section. In the event that the disagreement cannot be resolved, you may appeal to the administrative assistant to have your assignment regraded by another reader. If you are not satisfied with the regrading, you may submit your written appeal to Professor Fariss. No appeal can be submitted until 24 hours after you have received the graded work back; no appeal can be filed more than 10 days after you have received the graded work back. The appeal must explain in writing why the grade you received was in error and what the correct grade should be; also submit a new copy of the assignment with the appeal. 
+
 If you believe a grade you have received is unfair or in error, you will need to do the following: Wait 24 hours after receiving the grade before approaching your instructor. Provide an explanation in writing for why the grade you received was unfair or in error. If you believe the instructor's response fails to address your claim of unfairness or error, you may petition the department's Director of Undergraduate Studies at the latest within the first five weeks of classes following the completion of the course. You must convey in writing the basis for the complaint, with specific evidence in support of the argument that the grade either was given in error or was unfairly determined. This formal complaint also should summarize the outcome of the initial inquiry to the course instructor, indicating which aspects are in dispute. Within three weeks of the receipt of the petition, the DUS will determine whether to convene the Undergraduate Affairs Committee, the student, and the instructor(s) for a formal hearing. Further details on this process are included on the department website under Advising > Contesting a Grade.
+
 
 ### Language and Gender
 
