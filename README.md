@@ -196,6 +196,8 @@ The best way to contact me so that you can ask additional questions about course
 
 - **OWD:** Hannah Ritchie, Pablo Rosado, and Veronika Samborska (2024) - “Climate Change” Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/climate-change
 
+- **Data Visualization Assignment** Due at the end of the week. Data visualization presentations during sections this week. You will need a color printout of your data visualization during your assigned section. 
+
 ### Week 15
 
 - **FLSHR Ch. 14:** *Challenges to the Global Order*
