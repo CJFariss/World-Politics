@@ -33,13 +33,13 @@ This course introduces students to the study of world politics. No prior backgro
 
 ### Library Resources
 
-Contact the Political Science Librarian, Catherine Morse, for help finding relevant books, articles, and data. She can be reached at cmorse@umich.edu or you can make an appointment to meet with her online.
+- Contact the Political Science Librarian, Catherine Morse, for help finding relevant books, articles, and data. She can be reached at cmorse@umich.edu or you can make an appointment to meet with her online.
 
 ### Introduction to R and U-M GPT
 
-I will introduce students to the R computing environment (https://cran.r-project.org/). The purpose of this introduction is to teach students how to load data into the R computing environment and then produce a graph with that data as part of the data visualization project.
-
-Students will need to learn how to use three functions in R for this project: `getwd()`, `read.csv()`, and `plot()` or `barplot()`. You will be able to complete the data visualization project with just these simple functions. The use of R for the Data Visualization Assignment is required. You may choose to use U-M GPT or another Chat GPT program to create the R code for this project. **If you choose to use U-M GPT or another Chat GPT program, you must submit (1) the prompt used to generate the output, (2) the specific GPT program used, and (3) the date and time you entered the prompt.** The University of Michigan provides access to a U-M GPT tool: https://its.umich.edu/computing/ai/gpt-in-depth. You can read more about creating effective prompts here: https://teamdynamix.umich.edu/TDClient/30/Portal/KB/ArticleDet?ID=10680.
+- I will introduce students to the R computing environment (https://cran.r-project.org/). The purpose of this introduction is to teach students how to load data into the R computing environment and then produce a graph with that data as part of the data visualization project.
+- Students will need to learn how to use three functions in R for this project: `getwd()`, `read.csv()`, and `plot()` or `barplot()`. You will be able to complete the data visualization project with just these simple functions. The use of R for the Data Visualization Assignment is required.
+-  You may choose to use U-M GPT or another Chat GPT program to create the R code for this project. **If you choose to use U-M GPT or another Chat GPT program, you must submit (1) the prompt used to generate the output, (2) the specific GPT program used, and (3) the date and time you entered the prompt.** The University of Michigan provides access to a U-M GPT tool: https://its.umich.edu/computing/ai/gpt-in-depth. You can read more about creating effective prompts here: https://teamdynamix.umich.edu/TDClient/30/Portal/KB/ArticleDet?ID=10680.
 
 ## Class Expectations and Grades
 
