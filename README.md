@@ -1,6 +1,6 @@
 # POLSCI 160: Introduction to World Politics
 
-> *Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace.* — Universal Declaration of Human Rights, Article 26.2. [https://www.ohchr.org/en/human-rights/universal-declaration/translations/english](Full english text of the UDHR). [https://www.ohchr.org/en/human-rights/universal-declaration/universal-declaration-human-rights/about-universal-declaration-human-rights-translation-project](578 transactions of the UDHR).
+> *Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace.* — Universal Declaration of Human Rights, Article 26.2. [Full english text of the UDHR](https://www.ohchr.org/en/human-rights/universal-declaration/translations/english). [578 transactions of the UDHR](https://www.ohchr.org/en/human-rights/universal-declaration/universal-declaration-human-rights/about-universal-declaration-human-rights-translation-project).
 
 ## Course Information
 
