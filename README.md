@@ -67,10 +67,10 @@ Read all assigned materials and be prepared to discuss each piece during the ass
 
 ### Grade Values
 - Participation and Intellectual Engagement: 36 points (18 points for the first half of the semester and 18 points for the second half of the semester)
-- InQuizitive Quizzes: 30 points (due weekly)
-- Final Exam: 15 points (Monday December 14)
+- InQuizitive Quizzes: 30 points (due weekly; assessed within one week of the Friday due date)
+- Final Exam: 14 points (Monday December 14)
 - Midterm Exam: 10 points (Wednesday October 28)
-- Data Visualization Assignment: 5 points (due the week after Thanksgiving break)
+- Data Visualization Assignment: 10 points (due the week after Thanksgiving break)
 
 
 ### Grade Ranges
@@ -90,7 +90,7 @@ Read all assigned materials and be prepared to discuss each piece during the ass
 
 ## Office Hours
 
-The best way to contact me to ask additional questions about course material is to attend office hours. I hold extensive office hours each week in the atrium area on the first floor of the Institute for Social Research (ISR) building, which is located at 426 Thompson St., Ann Arbor, MI 48104. Just like in the classroom, office hours sessions are designed to be an open and inclusive learning environment for my students. The ISR atrium offers an open space that accommodates small to medium size groups. There will often be more than one student seeking feedback during office hours. Each of you are welcome to join the group office hours session and ask questions or participate in discussion. I am also available outside of office hours via a message on the course management software (Canvas) or at my U-M email address: cjfariss@umich.edu.
+The best way to contact me so that you can ask additional questions about course material is to attend office hours. I hold extensive office hours each week in the atrium area on the first floor of the Institute for Social Research (ISR) building, which is located at 426 Thompson St., Ann Arbor, MI 48104. Just like in the classroom, office hours sessions are designed to be an open and inclusive learning environment for my students. The ISR atrium offers an open space that accommodates small to medium size groups. There will often be more than one student seeking feedback during office hours. Each of you are welcome to join the group office hours session and ask questions or participate in discussion. I am also available outside of office hours via a message on the course management software (Canvas) or at my U-M email address: cjfariss@umich.edu.
 
 
 
