@@ -1,6 +1,6 @@
 # POLSCI 160: Introduction to World Politics
 
-> *Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace.* — Universal Declaration of Human Rights, Article 26.2. [For the Full text of the UDHR see the 578 langugage translations](https://www.ohchr.org/en/human-rights/universal-declaration/universal-declaration-human-rights/about-universal-declaration-human-rights-translation-project).
+> *Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace.* — Universal Declaration of Human Rights, Article 26.2. [For the Full text of the UDHR see the 578 language translations](https://www.ohchr.org/en/human-rights/universal-declaration/universal-declaration-human-rights/about-universal-declaration-human-rights-translation-project).
 
 ## Course Information
 
@@ -45,9 +45,9 @@ This course introduces students to the study of world politics. No prior backgro
 
 ## Class Expectations and Grades
 
-Read all assigned materials and be prepared to discuss each piece during the assigned class week. As students, we learn more when we actively engage with material instead of passively consuming it. This insight is supported by extensive research from college-level courses ([https://doi.org/10.1073/pnas.1821936116](https://doi.org/10.1073/pnas.1821936116)). This is a large course, but we will work to actively learn together in the main lecture times and during discussion section.
+Read all assigned materials and be prepared to discuss each piece during the assigned class week. As students, we learn more when we actively engage with material instead of passively consuming it. This insight is supported by extensive research from college-level courses ([https://doi.org/10.1073/pnas.1821936116](https://doi.org/10.1073/pnas.1821936116)). This is a large course, but we will work to actively learn together in the main lecture times and during the discussion sections.
 
-**Exams:** Exams in the course are meant to allow you to demonstrate your understanding of course concepts. Eaxm content will consist of some combination of identification questions, essay questions, and multiple choice questions. The midterm exam will cover content from week 1 through week 7. The final exam will cover content from all weeks. Further details will be distributed in class.
+**Exams:** Exams in the course are meant to allow you to demonstrate your understanding of course concepts. Exam content will consist of some combination of identification questions, essay questions, and multiple choice questions. The midterm exam will cover content from week 1 through week 7. The final exam will cover content from all weeks. Further details will be distributed in class.
 
 - **Midterm Exam: Wednesday October 28, 4:00 pm – 5:20 pm.** The midterm exam covers content presented from Week 1 to Week 7. This is a written exam that will take place in the classroom without use of any electronic device. 
 - **Final Exam: Monday December 14, 4:00 pm – 6:00 pm.** The final exam covers content presented from Week 1 to Week 15. This is a written exam that will take place in the classroom without use of any electronic device. 
@@ -55,9 +55,9 @@ Read all assigned materials and be prepared to discuss each piece during the ass
 
 **Quizzes and Assignments:** Quiz content will be available through the U-M Canvas page, during class lectures, discussion sections, and outside of class. These quizzes support several learning objectives.
 
-- **InQuizitive Quizzes:** InQuizitive quizzes are interactive assessments that follow the textbook content. For each InQuizitive quiz, you will answer questions until you reach a specified number of points, which will then award a 100% for the weekly quiz. Complete each weekly InQuizitive quiz by the following Friday 11:59pm EST (eg., complete the week 2 InQuizitive quiz by the Friday of week 3; complete the week 3 InQuizitive quiz by the Friday of week 4; etc.). There are 15 required InQuizitive quizs (one quiz each week). Learn more here: [https://wwnorton.com/inquizitive](https://wwnorton.com/inquizitive). Links to the textbook chapters and InQuizitive quizzes are available in the Canvas website. 
+- **InQuizitive Quizzes:** InQuizitive quizzes are interactive assessments that follow the textbook content. For each InQuizitive quiz, you will answer questions until you reach a specified number of points, which will then award a 100% for the weekly quiz. Complete each weekly InQuizitive quiz by the following Friday 11:59pm EST (eg., complete the week 2 InQuizitive quiz by the Friday of week 3; complete the week 3 InQuizitive quiz by the Friday of week 4; etc.). There are 15 required InQuizitive quizzes (one quiz each week). Learn more here: [https://wwnorton.com/inquizitive](https://wwnorton.com/inquizitive). Links to the textbook chapters and InQuizitive quizzes are available on the Canvas website. 
 - **Discussion Section Bluebook Quizzes:** Brief, in person quizzes that will be taken in person during discussion section. Blue books provided by the instructors. 
-- **FLSHR Check Your Understanding Boxes:** Each chapter in the textbook contains several check points for material covered in the relevant chapter. These are not required quizzes but valuable learning tools that I highly encourage students to complete. Students missing lecture are required to compelete these questions. Links to the textbook chapters are available in the Canvas website. 
+- **FLSHR Check Your Understanding Boxes:** Each chapter in the textbook contains several check points for material covered in the relevant chapter. These are not required quizzes but valuable learning tools that I highly encourage students to complete. Students missing a lecture are required to complete these questions. Links to the textbook chapters are available on the Canvas website. 
 - **Data Visualization Assignment:** With the assistance of the instructors, identify a data visualization that captures some aspect of world politics on the [https://ourworldindata.org](https://ourworldindata.org) website. Recreate the visualization of this data using the program R [https://cran.r-project.org/](https://cran.r-project.org/). Students may also use U-M GPT to assist in the re-creation of the data visualization, specifically and only for assistance with generating the required R code. On the first page of this assignment describe the dataset, a complete (not hallucinated) citation for where you obtained the data, and what the data measure. On the second page provide the data visualization itself and an informative figure caption about the data visualization. Hallucinated data, hallucinated citations, or a data visualization rendered directly from an agentic coding assistant will not be accepted as completed assignments. Additional details, instructions, and examples will provided later in the semester.
 
 
@@ -93,7 +93,7 @@ Read all assigned materials and be prepared to discuss each piece during the ass
 
 ## Office Hours
 
-The best way to contact me so that you can ask additional questions about course material is to attend office hours. I hold extensive office hours each week in the atrium area on the first floor of the Institute for Social Research (ISR) building, which is located at 426 Thompson St., Ann Arbor, MI 48104. Just like in the classroom, office hours sessions are designed to be an open and inclusive learning environment for my students. The ISR atrium offers an open space that accommodates small to medium size groups. There will often be more than one student seeking feedback during office hours. Each of you are welcome to join the group office hours session and ask questions or participate in discussion. I am also available outside of office hours via a message on the course management software (Canvas) or at my U-M email address: cjfariss@umich.edu. Please email but also remember that asking questions during office hours usually yields more timely and detailed reponses.
+The best way to contact me so that you can ask additional questions about course material is to attend office hours. I hold extensive office hours each week in the atrium area on the first floor of the Institute for Social Research (ISR) building, which is located at 426 Thompson St., Ann Arbor, MI 48104. Just like in the classroom, office hours sessions are designed to be an open and inclusive learning environment for my students. The ISR atrium offers an open space that accommodates small to medium size groups. There will often be more than one student seeking feedback during office hours. Each of you are welcome to join the group office hours session and ask questions or participate in discussion. I am also available outside of office hours via a message on the course management software (Canvas) or at my U-M email address: cjfariss@umich.edu. Please email but also remember that asking questions during office hours usually yields more timely and detailed responses.
 
 
 
@@ -165,7 +165,7 @@ The best way to contact me so that you can ask additional questions about course
 
 - **FLSHR Ch. 9:** *International Monetary Relations*
 
-- *Introduction to R and Data Visulaization*
+- *Introduction to R and Data Visualization*
 
 ### Week 11
   
