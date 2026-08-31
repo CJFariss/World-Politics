@@ -123,7 +123,7 @@ The best way to contact me so that you can ask additional questions about course
 
 - **FLSHR Ch. 3:** *Why Are There Wars?*
 
-- **OWD:** Bastian Herre, Lucas Rodés-Guirao, and Max Roser (2024) — "War and Peace." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/war-and-peace [Online Resource]
+- **OWD:** Bastian Herre, Lucas Rodés-Guirao, and Max Roser (2024) — "War and Peace." Published online at OurWorldinData.org. Retrieved from: https://ourworldindata.org/war-and-peace 
 
 ### Week 5
 
@@ -216,7 +216,7 @@ The best way to contact me so that you can ask additional questions about course
 
 ### Academic Integrity
 
-The LSA undergraduate academic community, like all communities, functions best when its members treat one another with honesty, fairness, respect, and trust. The College holds all members of its community to high standards of scholarship and integrity. To accomplish its mission of providing an optimal educational environment and developing leaders of society, the College promotes the assumption of personal responsibility and integrity and prohibits all forms of academic dishonesty and misconduct. Academic dishonesty may be understood as any action or attempted action that may result in creating an unfair academic advantage for oneself or an unfair academic advantage or disadvantage for any other member or members of the academic community. Conduct, without regard to motive, that violates the academic integrity and ethical standards of the College community cannot be tolerated. The College seeks vigorously to achieve compliance with its community standards of academic integrity. Violations of the standards will not be tolerated and will result in serious consequences and disciplinary action.
+The LSA undergraduate academic community, like all communities, functions best when its members treat one another with honesty, fairness, respect, and trust. The College holds all members of its community to high standards of scholarship and integrity. To accomplish its mission of providing an optimal educational environment and developing leaders of society, the College promotes the assumption of personal responsibility and integrity and prohibits all forms of academic dishonesty and misconduct. Academic dishonesty may be understood as any action or attempted action that may result in creating an unfair academic advantage for oneself or an unfair academic advantage or disadvantage for any other member or members of the academic community. Conduct, without regard to motive, that violates the academic integrity and ethical standards of the College community cannot be tolerated. The College seeks vigorously to achieve compliance with its community standards of academic integrity. Violations of the standards will not be tolerated and will result in serious consequences and disciplinary action. For more information see [https://lsa.umich.edu/lsa/academics/academic-integrity.html](https://lsa.umich.edu/lsa/academics/academic-integrity.html).
 
 ### Accommodations for Students with Disabilities
 
