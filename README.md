@@ -103,10 +103,7 @@ The best way to contact me so that you can ask additional questions about course
 
 - No discussion sections this week.
 
-#### Monday
 - **FLSHR:** *Introduction*
-
-#### Wednesday
   
 ### Week 2
 
