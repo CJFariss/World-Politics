@@ -10,7 +10,7 @@
 
 - **Course Time:** Monday and Wednesday 4:00pm–5:20pm EST.
 
-- **Instructor Office Hours:** Tuesday, 10:15am–12:15pm EST. Wednesday, 2:00pm–3:30pm EST. Institute for Social Research atrium. 426 Thompson St, Ann Arbor, MI 48104. [U-M campus map](https://maps.studentlife.umich.edu/building/institute-for-social-research).
+- **Instructor Office Hours:** Tuesday, 10:15am–12:15pm EST. Wednesday, 1:30pm–3:30pm EST. Institute for Social Research atrium. 426 Thompson St, Ann Arbor, MI 48104. [U-M campus map](https://maps.studentlife.umich.edu/building/institute-for-social-research).
 
 - **Graduate Student Instructors:** See the Canvas page. 
 
