@@ -126,7 +126,7 @@ The best way to contact me so that you can ask additional questions about course
 - **OWD:** Bastian Herre, Lucas Rodés-Guirao, and Max Roser (2024) — "War and Peace." Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/war-and-peace](https://ourworldindata.org/war-and-peace) 
 
 
-- **OWD:** Bastian Herre, Lucas Rodés-Guirao, and Max Roser (2024) — "How different measures capture how common and deadly conflicts are, and when to use which one." Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/conflict-measures-how-do-researchers-measure-how-common-and-deadly-armed-conflicts-are](https://ourworldindata.org/conflict-measures-how-do-researchers-measure-how-common-and-deadly-armed-conflicts-are
+- **OWD:** Bastian Herre (2023) — "How different measures capture how common and deadly conflicts are, and when to use which one." Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/conflict-measures-how-do-researchers-measure-how-common-and-deadly-armed-conflicts-are](https://ourworldindata.org/conflict-measures-how-do-researchers-measure-how-common-and-deadly-armed-conflicts-are
 )
  
 - *What is a theory?*, *What is a scientific explanation?*
