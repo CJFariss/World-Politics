@@ -152,27 +152,31 @@ The best way to contact me so that you can ask additional questions about course
 
 - **OWD:** Bastian Herre, Veronika Samborska, Hannah Ritchie, and Max Roser (2023) - “Terrorism” Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/terrorism](https://ourworldindata.org/terrorism)
 
+- **Sons of the Clouds: The Last Colony (Spanish: Hijos de las nubes, la última colonia)** [https://www.imdb.com/title/tt1661263/]
+
 ### Week 8
 
 - Fall break: No class on Monday or Tuesday this week.
   
-- **FLSHR Ch. 7:** *Cross-Border Flows of Goods and Services*
-
-- **OWD:** Esteban Ortiz-Ospina et al. (2018) — "Trade and Globalization." Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/trade-and-globalization](https://ourworldindata.org/trade-and-globalization)
 
 ### Week 9
 
-- **FLSHR Ch. 8:** *Cross-Border Flows of Money and People*
-
-- **OWD:** Fiona Spooner et al. (2022) — "Migration." Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/migration](https://ourworldindata.org/migration)
+- *Introduction to R and Data Visualization*
 
 - **Midterm: Wednesday October 28, 4:00 pm – 5:20 pm.** The midterm exam covers content presented from Week 1 to Week 7.
 
 ### Week 10
 
+- **FLSHR Ch. 7:** *Cross-Border Flows of Goods and Services*
+
+- **OWD:** Esteban Ortiz-Ospina et al. (2018) — "Trade and Globalization." Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/trade-and-globalization](https://ourworldindata.org/trade-and-globalization)
+
+- **FLSHR Ch. 8:** *Cross-Border Flows of Money and People*
+
+- **OWD:** Fiona Spooner et al. (2022) — "Migration." Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/migration](https://ourworldindata.org/migration)
+
 - **FLSHR Ch. 9:** *International Monetary Relations*
 
-- *Introduction to R and Data Visualization*
 
 ### Week 11
   
