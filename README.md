@@ -158,10 +158,11 @@ The best way to contact me so that you can ask additional questions about course
 
 - Fall break: No class on Monday or Tuesday this week.
   
+- **FLSHR Ch.2 - Ch. 6:** wrap up
 
 ### Week 9
 
-- *Introduction to R and Data Visualization* https://github.com/CJFariss/R-Introduction-Courses/easyRplots
+- *Introduction to R and Data Visualization* [https://github.com/CJFariss/R-Introduction-Courses/easyRplots](https://github.com/CJFariss/R-Introduction-Courses/tree/main/easyRplots)
 
 - **Midterm: Wednesday October 28, 4:00 pm – 5:20 pm.** The midterm exam covers content presented from Week 1 to Week 7.
 
