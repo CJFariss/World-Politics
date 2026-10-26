@@ -175,14 +175,16 @@ The best way to contact me so that you can ask additional questions about course
 
 - **OWD:** Fiona Spooner et al. (2022) — "Migration." Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/migration](https://ourworldindata.org/migration)
 
-- **FLSHR Ch. 9:** *International Monetary Relations*
 
 
 ### Week 11
   
-- **FLSHR Ch. 10:** *Development: Causes of the Wealth and Poverty of Nations*
+- **FLSHR Ch. 9:** *International Monetary Relations*
 
 - **OWD:** Max Roser, Bertha Rohenkohl, Pablo Arriagada, Joe Hasell, Hannah Ritchie, and Esteban Ortiz-Ospina (2023) - “Economic Growth” Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/economic-growth](https://ourworldindata.org/economic-growth)
+
+- **FLSHR Ch. 10:** *Development: Causes of the Wealth and Poverty of Nations*
+
 -  **OWD:** Joe Hasell, Bertha Rohenkohl, Pablo Arriagada, Esteban Ortiz-Ospina, and Max Roser (2023) - “Economic Inequality” Published online at OurWorldinData.org. Retrieved from: [https://ourworldindata.org/economic-inequality](https://ourworldindata.org/economic-inequality)
 
 ### Week 12
